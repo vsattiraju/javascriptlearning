@@ -15,4 +15,6 @@ console.warn ("Only 4 tickets left")
 console.error ("Something Went Wrong")
 console.error ("400 Bad Request")
 
+arr = ["Singapore", "USA", "Thailand"]
+console.table(arr);
 
